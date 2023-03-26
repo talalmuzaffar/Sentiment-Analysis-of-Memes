@@ -16,7 +16,8 @@ Meme Sentiment Analyser is a web application that allows users to analyze the se
 -Clone the repository.
 - Install the required packages using: 
 `pip install -r requirements.txt`
-- Run the application using python app.py.
+- Run the application using:
+`python app.py`
 
 ## Usage
 - Open the web application.
